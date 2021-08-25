@@ -31,4 +31,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanttv&show_icons=true&locale=en&theme=github_dark" alt="bryanttv" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Bryanttv&theme=gruvbox_duo&ring=2E8CB0&sideNums=2E8CB0&currStreakNum=DDDDDD&sideLabels=DDDDDD&dates=38ABD7&stroke=DDDDDD&fire=DDDDDD&currStreakLabel=DDDDDD&border=DDDDDD" alt="bryanttv" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Bryanttv&background=0D1117&theme=gruvbox_duo&ring=2E8CB0&sideNums=2E8CB0&currStreakNum=DDDDDD&sideLabels=DDDDDD&dates=38ABD7&stroke=DDDDDD&fire=DDDDDD&currStreakLabel=DDDDDD&border=DDDDDD" alt="bryanttv" /></p>
