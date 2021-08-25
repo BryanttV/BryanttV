@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bryann</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">, I'm Bryann</h1>
+
 <h3 align="center">A passionate software developer from Colombia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bryanttv&label=Profile%20views&color=0e75b6&style=flat" alt="bryanttv" /> </p>
